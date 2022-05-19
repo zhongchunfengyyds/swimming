@@ -1,0 +1,22 @@
+{
+  "name": "swimming",
+  "version": "1.0.15",
+  "description": "划水",
+  "main": "index.ts",
+  "bin": {
+    "swimming": "./dist/index.js"
+  },
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "echo 213",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.34",
+    "@types/yargs": "^17.0.10",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
