@@ -8,5 +8,5 @@
 npm i swimming -g
 
 # 开启一套龙服务
-swimming
+swimming show
 ```
