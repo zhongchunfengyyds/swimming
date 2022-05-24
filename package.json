@@ -1,6 +1,6 @@
 {
   "name": "swimming",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "划水",
   "main": "index.ts",
   "bin": {
@@ -17,6 +17,7 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "yargs": "^17.5.1"
   }
 }
